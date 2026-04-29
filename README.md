@@ -1,2 +1,2 @@
 # first-repo
-The first repo i've created
+The first repo I've created
