@@ -15,5 +15,5 @@
 - Could not find "Git: Clone" in Cursor
 
 # Solutions
-- Download and install Git
+- Downloaded and installed Git
 - Used terminal command to clone and open repo in Cursor
